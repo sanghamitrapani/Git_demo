@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflict check
+=======
+is is for conflict test
+>>>>>>> master
